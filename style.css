@@ -436,3 +436,17 @@ article .icon {
     cursor: default;
     height: 2rem;
 } 
+.socialmedia-icon{
+    height: 2.5rem;
+}
+
+/* Footer Section */
+
+footer{
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p{
+    text-align: center;
+}
